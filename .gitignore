@@ -1,0 +1,9 @@
+.idea/
+*.pyc
+*.log
+*.pot
+homeapp/__pycache__/*
+sampleApp/__pycache__/*
+__pycache__/
+db.sqlite3
+media
